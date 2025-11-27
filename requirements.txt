@@ -1,0 +1,39 @@
+# DriveShield - Python Dependencies
+# EN: Complete list of required packages for the DriveShield project
+# FA: لیست کامل پکیج‌های مورد نیاز برای پروژه DriveShield
+
+# Web Framework & API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# Deep Learning & ML Framework
+torch
+torchvision
+transformers
+huggingface-hub
+
+# Data Processing & Analysis
+numpy
+pandas
+scikit-learn
+
+# Computer Vision & Image Processing
+albumentations
+opencv-python
+decord
+
+# Visualization & Plotting
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+psutil
+
+# Note: Some packages may require system dependencies:
+# - ffmpeg (for video processing)
+# - CUDA toolkit (for GPU support, optional)
+
