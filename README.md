@@ -13,7 +13,7 @@
 **EN:** Watch the DriveShield dashboard in action:  
 **FA:** مشاهده داشبورد DriveShield در عمل:
 
-![DriveShield UI Demo](UI.gif)
+![DriveShield UI Demo](https://raw.githubusercontent.com/MahdiNavaei/DriveShield/main/driveshield-demo.gif)
 
 **EN:** The GIF demonstrates the complete workflow: video upload, real-time prediction, bilingual interface (EN/FA toggle), and interactive risk timeline visualization.  
 **FA:** این GIF فرآیند کامل را نشان می‌دهد: آپلود ویدئو، پیش‌بینی در لحظه، رابط دوزبانه (تغییر EN/FA) و مصورسازی تعاملی نمودار زمانی ریسک.
